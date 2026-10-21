@@ -5,6 +5,13 @@ Every entry starts with a date and time (London time) so a daily check can tell 
 
 ---
 
+## 2026-10-21 12:35 — Mouse wheel now zooms
+
+If you use a mouse, the scroll wheel now zooms in and out of the board instead of moving it up and down. It zooms towards wherever your pointer is, so point at the part you want a closer look at.
+- To move around with a mouse, drag an empty part of the board.
+- To scroll with the wheel instead, hold **Shift** while you scroll.
+- On a trackpad nothing changes: two fingers move around, pinch to zoom.
+
 ## 2026-10-20 23:30 — Welcome to your Dot board
 
 Your board is set up and private: only your email can log in, with a code sent to you.
