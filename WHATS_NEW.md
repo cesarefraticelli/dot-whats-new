@@ -5,6 +5,14 @@ Every entry starts with a date and time (London time) so a daily check can tell 
 
 ---
 
+## 2026-10-26 09:55 — Drag pictures straight in from Pinterest and other sites
+
+Dragging a picture from Pinterest, Google Images or another website onto your board now adds it as a proper image card, saved in full size, instead of a link with a long code for a name.
+- Drag the picture from the website onto an empty spot on the board.
+- Drop it onto a gallery to add it straight to that gallery.
+- Pasting a picture's address (one ending in .jpg, .png and so on) works the same way.
+- Links to normal web pages still become link cards with a preview, as before.
+
 ## 2026-10-21 12:35 — Mouse wheel now zooms
 
 If you use a mouse, the scroll wheel now zooms in and out of the board instead of moving it up and down. It zooms towards wherever your pointer is, so point at the part you want a closer look at.
